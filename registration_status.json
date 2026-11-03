@@ -1,0 +1,280 @@
+{
+  "updated": "2026-11-02T07:56:17.342Z",
+  "items": {
+    "ubot_delivery": {
+      "status": "ok",
+      "since": "2026-10-18"
+    },
+    "esun_icash_711": {
+      "status": "ok",
+      "since": "2026-10-18"
+    },
+    "ubot_j2_jp_transit": {
+      "status": "ok",
+      "since": "2026-10-18"
+    },
+    "ubot_j2_jp_mpay": {
+      "status": "ok",
+      "since": "2026-10-24"
+    },
+    "ubot_j2_5th": {
+      "status": "ok",
+      "since": "2026-10-18"
+    },
+    "orange1_pay5": {
+      "status": "ok",
+      "since": "2026-10-18"
+    },
+    "orange1_overseas": {
+      "status": "ok",
+      "since": "2026-10-18"
+    },
+    "orange1_dept": {
+      "status": "full",
+      "month": "2026-11",
+      "hit": "王道登錄頁 11/2 12:43 顯示已額滿",
+      "manual": true,
+      "since": "2026-11-02"
+    },
+    "orange1_insurance": {
+      "status": "ok",
+      "since": "2026-10-18"
+    },
+    "kgi1_mobilepay": {
+      "status": "ok",
+      "since": "2026-10-18"
+    },
+    "feib1_5pct": {
+      "status": "ok",
+      "since": "2026-10-18"
+    },
+    "feib1_easycard": {
+      "status": "ok",
+      "since": "2026-10-26"
+    },
+    "fb1_pay3": {
+      "status": "ok",
+      "since": "2026-10-18"
+    },
+    "ctbc_lp_overseas_q4": {
+      "status": "ok",
+      "since": "2026-10-18"
+    },
+    "ctbc_lp_visa_merchants": {
+      "status": "ok",
+      "since": "2026-10-18"
+    },
+    "ctbc_lp_jcb_merchants": {
+      "status": "ok",
+      "since": "2026-10-18"
+    },
+    "ileo1_delivery": {
+      "status": "ok",
+      "since": "2026-10-18"
+    },
+    "ileo1_shopee": {
+      "status": "ok",
+      "since": "2026-10-18"
+    },
+    "j1_jkt": {
+      "status": "ok",
+      "since": "2026-10-18"
+    },
+    "j1_jp_transit": {
+      "status": "ok",
+      "since": "2026-10-18"
+    },
+    "j5_jkt_q4": {
+      "status": "ok",
+      "since": "2026-10-18"
+    },
+    "sunny1_donki_q4": {
+      "status": "ok",
+      "since": "2026-10-18"
+    },
+    "c4_life": {
+      "status": "ok",
+      "since": "2026-10-18"
+    },
+    "esun_icash_wanchiafu": {
+      "status": "ok",
+      "since": "2026-10-18"
+    },
+    "esun_cpc_q4": {
+      "status": "ok",
+      "since": "2026-10-18"
+    },
+    "esun_travel_q4": {
+      "status": "ok",
+      "since": "2026-10-18"
+    },
+    "esun_pluspay_firstbind": {
+      "status": "ok",
+      "since": "2026-10-18"
+    },
+    "c7_family_pluspay": {
+      "status": "ok",
+      "since": "2026-10-18"
+    },
+    "c7_pxmart_wed": {
+      "status": "ok",
+      "since": "2026-10-18"
+    },
+    "c7_upower": {
+      "status": "ok",
+      "since": "2026-10-18"
+    },
+    "c7_insurance": {
+      "status": "ok",
+      "since": "2026-10-18"
+    },
+    "ubear1_linepay5": {
+      "status": "ok",
+      "since": "2026-10-18"
+    },
+    "j3_jp_6pct": {
+      "status": "ok",
+      "since": "2026-10-18"
+    },
+    "j5_select7": {
+      "status": "ok",
+      "since": "2026-10-18"
+    },
+    "j5_mop_linkou_anniv": {
+      "status": "ok",
+      "since": "2026-10-18"
+    },
+    "c12_jkt_2027q1": {
+      "status": "ok",
+      "since": "2026-10-18"
+    },
+    "sinopac_superpay_q4": {
+      "status": "ok",
+      "since": "2026-10-18"
+    },
+    "j4_overseas_q4": {
+      "status": "ok",
+      "since": "2026-10-18"
+    },
+    "daway1_1000days": {
+      "status": "ok",
+      "since": "2026-10-18"
+    },
+    "hsbc_q4_installment": {
+      "status": "ok",
+      "since": "2026-10-18"
+    },
+    "hsbc_q4_double11": {
+      "status": "ok",
+      "since": "2026-10-18"
+    },
+    "hsbc_q4_double12": {
+      "status": "ok",
+      "since": "2026-10-18"
+    },
+    "hsbc_q4_fuel": {
+      "status": "ok",
+      "since": "2026-10-18"
+    },
+    "dbs_q4_collect5": {
+      "status": "ok",
+      "since": "2026-10-18"
+    },
+    "dbs_q4_dining": {
+      "status": "ok",
+      "since": "2026-10-18"
+    },
+    "dbs_q4_500bowl": {
+      "status": "ok",
+      "since": "2026-10-18"
+    },
+    "dbs_q4_domestic_travel": {
+      "status": "ok",
+      "since": "2026-10-18"
+    },
+    "dbs_q4_insurance": {
+      "status": "ok",
+      "since": "2026-10-18"
+    },
+    "dbs_q4_big_insurance": {
+      "status": "ok",
+      "since": "2026-10-18"
+    },
+    "dbs_q4_ovs_dining": {
+      "status": "ok",
+      "since": "2026-10-18"
+    },
+    "dbs_q4_ovs_travel": {
+      "status": "ok",
+      "since": "2026-10-18"
+    },
+    "j1_asia_select": {
+      "status": "ok",
+      "since": "2026-10-18"
+    },
+    "op1_myfone_10k": {
+      "status": "ok",
+      "since": "2026-10-18"
+    },
+    "c11_linepay_coupon": {
+      "status": "ok",
+      "since": "2026-10-18"
+    },
+    "c6_jko_billpay": {
+      "status": "ok",
+      "since": "2026-10-18"
+    },
+    "feib1_monthly_spend": {
+      "status": "ok",
+      "since": "2026-10-18"
+    },
+    "c8_relax_reward": {
+      "status": "ok",
+      "since": "2026-10-31"
+    },
+    "ubot_j2_ayataka": {
+      "status": "ok",
+      "since": "2026-10-18"
+    },
+    "ubot_overseas_3pct": {
+      "status": "ok",
+      "since": "2026-10-18"
+    },
+    "ubot_travel_q4": {
+      "status": "ok",
+      "since": "2026-10-18"
+    },
+    "ubot_sub_q4": {
+      "status": "ok",
+      "since": "2026-10-18"
+    },
+    "ubot_momo_oct_cum": {
+      "status": "ok",
+      "since": "2026-10-18"
+    },
+    "c2_ipass_greenpoints": {
+      "status": "ok",
+      "since": "2026-10-18"
+    },
+    "c10_icash_autoload": {
+      "status": "ok",
+      "since": "2026-10-23"
+    },
+    "c10_books_weekend": {
+      "status": "ok",
+      "since": "2026-10-18"
+    },
+    "ileo1_coupon": {
+      "status": "ok",
+      "since": "2026-10-18"
+    },
+    "fb1_autoload2": {
+      "status": "ok",
+      "since": "2026-10-18"
+    },
+    "orange1_shopfest": {
+      "status": "ok",
+      "since": "2026-10-18"
+    }
+  }
+}

@@ -1,0 +1,1243 @@
+{
+  "uniopen_icash_full": false,
+  "uniopen_icash_msg": "",
+  "starbucks_5_full": false,
+  "starbucks_5_msg": "",
+  "sunday_7_full": false,
+  "sunday_7_msg": "",
+  "uniopen_autoload_full": false,
+  "uniopen_autoload_msg": "",
+  "ubot_laidian_even_full": false,
+  "ubot_laidian_even_msg": "",
+  "transport_10": {
+    "台新": {
+      "full": false,
+      "msg": ""
+    },
+    "兆豐": {
+      "full": false,
+      "msg": ""
+    },
+    "一銀": {
+      "full": false,
+      "msg": ""
+    },
+    "華南": {
+      "full": false,
+      "msg": ""
+    },
+    "元大": {
+      "full": false,
+      "msg": ""
+    }
+  },
+  "seven_10": {
+    "國泰": {
+      "full": false,
+      "msg": ""
+    },
+    "元大": {
+      "full": false,
+      "msg": ""
+    },
+    "滙豐": {
+      "full": false,
+      "msg": ""
+    },
+    "兆豐": {
+      "full": false,
+      "msg": ""
+    },
+    "一銀": {
+      "full": false,
+      "msg": ""
+    },
+    "合庫": {
+      "full": false,
+      "msg": ""
+    },
+    "陽信": {
+      "full": false,
+      "msg": ""
+    },
+    "台中銀": {
+      "full": false,
+      "msg": ""
+    }
+  },
+  "online3c_10": {
+    "玉山": {
+      "full": false,
+      "msg": ""
+    },
+    "國泰": {
+      "full": false,
+      "msg": ""
+    },
+    "台新": {
+      "full": false,
+      "msg": ""
+    },
+    "富邦": {
+      "full": false,
+      "msg": ""
+    },
+    "兆豐": {
+      "full": false,
+      "msg": ""
+    }
+  },
+  "ubot_ipassmoney": {
+    "7": {
+      "full": true,
+      "msg": "7月活動已額滿"
+    },
+    "8": {
+      "full": true,
+      "msg": "8月活動已額滿"
+    },
+    "9": {
+      "full": true,
+      "msg": "9月活動已額滿"
+    },
+    "10": {
+      "full": true,
+      "msg": "10月活動已額滿"
+    },
+    "11": {
+      "full": false,
+      "msg": ""
+    },
+    "12": {
+      "full": false,
+      "msg": ""
+    }
+  },
+  "ubot_laidian_even": {
+    "7": {
+      "full": true,
+      "msg": "7月回饋於115/7/12 22:00額滿"
+    },
+    "8": {
+      "full": true,
+      "msg": "8月回饋於115/8/12 16:00額滿"
+    },
+    "9": {
+      "full": true,
+      "msg": "9月回饋於115/9/12 20:30額滿"
+    },
+    "10": {
+      "full": true,
+      "msg": "10月回饋於115/10/14 06:30額滿"
+    },
+    "11": {
+      "full": false,
+      "msg": ""
+    },
+    "12": {
+      "full": false,
+      "msg": ""
+    }
+  },
+  "ipass_results": {
+    "GMZDQOI4PXIIP649nykw": {
+      "full": false,
+      "title": "【生活繳費】首次使用 iPASS MONEY APP 生活繳費，輕鬆享 5% 回饋"
+    },
+    "GMZTAMQI7NJCJ64aSebx": {
+      "full": false,
+      "title": "【生活繳費】當月繳費任 1 筆，樂享消費 5% 回饋！指定銀行再加碼！"
+    },
+    "GI2TSNQHW7ZKA64RZbVj": {
+      "full": false,
+      "title": "【iPASS MONEY】連結銀行帳戶／信用卡享優惠！"
+    },
+    "GMZTEMY4AH2KS64Lfdsx": {
+      "full": false,
+      "title": "【首次消費】用 iPASS MONEY 首次消費最高享 20% 回饋"
+    },
+    "GMZTAOAQ36BJX64562zX": {
+      "full": false,
+      "title": "【摩斯漢堡】用 iPASS MONEY 付款，單筆消費滿 150 元送 50 元優惠券！"
+    },
+    "GMZTENI2UYVHN64NVXCH": {
+      "full": false,
+      "title": "【元大銀行】首次使用 iPASS MONEY 消費最高享 20% 回饋"
+    },
+    "GMZTEMQAHRL2S646A7BE": {
+      "full": false,
+      "title": "【中嘉嘉南高屏 YouBike 】綁定 iPASS MONEY 扣款即贈 7-ELEVEN 優惠券 20 元！"
+    },
+    "GMZTCMYX7LWN46416daF": {
+      "full": false,
+      "title": "【vivo】全新機款啟用 Google 錢包™一卡通送 250 元儲值金"
+    },
+    "GMZTEMIZEUGNY64MPkKY": {
+      "full": false,
+      "title": "【手機門號轉好運】綁定手機門號轉帳，筆筆轉帳抽 iPhone 17 Pro 512G！"
+    },
+    "GMZTCOIEQHMYK64buVeG": {
+      "full": false,
+      "title": "【萊爾富】用 iPASS MONEY APP 綁定聯邦信用卡付款，樂享 10% 現折，滿額再享一卡通綠點 10% 回饋！"
+    },
+    "GMZTCNQEDRQL264EHqtF": {
+      "full": false,
+      "title": "【全家便利商店】用 iPASS MONEY 付款，三重優惠輕鬆賺！"
+    },
+    "GMZTCMQ35AZIS64Iol8E": {
+      "full": false,
+      "title": "【多那之】用 iPASS MONEY APP / 一卡通記名卡付款，最高享 25% 回饋！"
+    },
+    "GMZTAMYMTSYMC64zW3Bb": {
+      "full": false,
+      "title": "【momo】iPASS MONEY 付款，消費樂享最高 20% 回饋！"
+    },
+    "GMZTANAWZ2B2C64onyI1": {
+      "full": false,
+      "title": "【NET】用 iPASS MONEY APP 付款，最高享 25% 回饋！"
+    },
+    "GMZTAMABNDLXK64Y6S0q": {
+      "full": false,
+      "title": "【玉山銀行】玉山數位帳戶新朋友，完成 iPASS MONEY 指定任務最高享 450 元回饋"
+    },
+    "GMZTAMIDDFYZN64p97YT": {
+      "full": false,
+      "title": "[6月份回饋上限已於2026/6/5 17:00 額滿] 【台中銀行】連結台中銀行存款帳戶，使用 iPASS MONEY APP 生活繳費最高享 15% 回饋"
+    },
+    "GMZDSNALO3OM764nIIXY": {
+      "full": false,
+      "title": "[優惠二活動 10 月份回饋上限已於 2026/10/22 12:00 額滿 ] TWQR 今夜留給我，高雄兩大夜市消費最高享 25% 回饋"
+    },
+    "GMZDSMQAF6F6U64guNP9": {
+      "full": false,
+      "title": "【CYBERBIZ】用 iPASS MONEY 付款，享一卡通綠點 8% 回饋"
+    },
+    "GMZDSMAMKGDAF64EjFWr": {
+      "full": false,
+      "title": "【台亞加油站】加油就用 iPASS MONEY，月月最高送 120 元！綁卡消費再享最高 10% 回饋！"
+    },
+    "GMZDQOAWZ5XMJ640JR1u": {
+      "full": false,
+      "title": "【麥當勞】手機點餐、歡樂送 2.0 用 iPASS MONEY 付款，月月最高送 80 元！"
+    },
+    "GMZDQMQMOI34K64f0J7n": {
+      "full": false,
+      "title": "【美廉社】單筆消費滿 150 最高享一卡通綠點 10% 回饋，首次消費最高享 25%"
+    },
+    "GMZDQNATSDPGH64W6Joi": {
+      "full": false,
+      "title": "【全國電子】使用 iPASS MONEY APP，單筆消費滿 3000 元送 300 元優惠券！"
+    },
+    "GMZDOMY4GLOVU64eG4SZ": {
+      "full": false,
+      "title": "【日藥本舖】用 iPASS MONEY APP，單筆消費滿 299 就送 150 元優惠券！"
+    },
+    "GMZDIMQNZUFAY644AE28": {
+      "full": false,
+      "title": "【乘車碼】在北捷用 iPASS MONEY 乘車碼付款，符合條件享四重優惠"
+    },
+    "GMZTCNIXCBFHI64GzOoG": {
+      "full": false,
+      "title": "申辦聯邦銀行 MaiCoin 一卡通聯名卡，樂享自動加值 10% + 消費 10% 雙重優惠！"
+    },
+    "GMZDONA7T37GJ64kO4QL": {
+      "full": false,
+      "title": "誠品生活使用一卡通滿額享 10% 回饋 !"
+    },
+    "GMZDONI3CBS27642MKg1": {
+      "full": false,
+      "title": "【王道銀行】指定連結開立王道帳戶，並符合條件享 600 元回饋"
+    },
+    "GMZDGNQ2FREC364N6Quc": {
+      "full": false,
+      "title": "【樂天銀行】樂天網銀新戶，用 iPASS MONEY 付款任 3 筆享一卡通綠點 800 點回饋"
+    },
+    "GMYTGNAYHGIFI64RxCIu": {
+      "full": false,
+      "title": "【iPASS MONEY】指定銀行貸款開辦費 0 元起"
+    },
+    "GMYDMMYWGJ56F64zIBEa": {
+      "full": false,
+      "title": "PayPay旅日神隊友經典優惠券領起來"
+    },
+    "GMZDMNAC5F5KW64SujE3": {
+      "full": false,
+      "title": "【活動已於 2026/03/18 17:00 額滿】聯邦銀行一卡通聯名卡，自動加值筆筆送 iPASS MONEY 儲值金 10 元!"
+    },
+    "GMZDKOAOLGQST64knGu8": {
+      "full": false,
+      "title": "【全國加油站】持一卡通儲值卡於人工加油島加油，享汽油每公升降價 0.5 元"
+    },
+    "GMYTKMYN7MTQI64wH4ix": {
+      "full": false,
+      "title": "持一卡通消費，天天享美廉社會員點數 6 倍送！"
+    },
+    "GMZDKNAX4X5LZ64Ni8oe": {
+      "full": false,
+      "title": "【Google 錢包™一卡通】搭乘全台大眾運輸，享一卡通綠點10倍送！"
+    },
+    "GMZDCNQYFL5VP64y7jo5": {
+      "full": false,
+      "title": "喜美超市使用一卡通滿 350 現折 30 元！"
+    },
+    "GMYTANQ37ASJO64p0RRL": {
+      "full": false,
+      "title": "【MeN Go/南高屏TPASS月票、季票】購票、過卡就用一卡通 iPASS MONEY APP，最高樂享 50 元回饋！"
+    },
+    "GMYDOMA4GJKLI64IzNdo": {
+      "full": false,
+      "title": "TPASS 2.0+ 公共運輸常客優惠回饋"
+    },
+    "GMZTENQVDIKGI64n5mzE": {
+      "full": false,
+      "title": "【改變有我藝起回家文化藝術季】藝起來用 iPASS MONEY！消費累積滿 399 就送 60 元優惠券！"
+    },
+    "GMZTEOANJBI7B64uYm48": {
+      "full": false,
+      "title": "【九乘九文具】用 iPASS MONEY APP / 一卡通記名卡付款樂享 10% 回饋，符合指定資格最高再加碼 25% 回饋！"
+    },
+    "GMZTGMQ63NMIE64QXrXH": {
+      "full": false,
+      "title": "【7-ELEVEN】用 iPASS MONEY 付款，單筆消費滿 150 元立折 30 元！"
+    },
+    "GMZTGNIOY3M6J64WvMEH": {
+      "full": false,
+      "title": "【KKBOX】付款新選擇！優惠券 50 元大方送，最高再賺 30% 回饋！"
+    },
+    "GMZTGNQ3WVKG364Kq3Wb": {
+      "full": false,
+      "title": "[優惠二回饋已於 2026/6/18 14:00 額滿 ]【環球購物中心】購物就愛用 iPASS MONEY！消費滿額最高送 940 元優惠券！"
+    },
+    "GMZTGNYZOUIPW645fslJ": {
+      "full": false,
+      "title": "【環球Online】 618 購物節限定！輸入代碼現領 168 元優惠券，錯過再等一年！"
+    },
+    "GMZTGOAD4M7UF64K2T7R": {
+      "full": false,
+      "title": "【捐款專區】用愛連結彼此！iPASS MONEY 捐款每滿百送 10 點，愛心放大再送 300 點！"
+    },
+    "GMZTGOIW2GLZF64nyUGA": {
+      "full": false,
+      "title": "【漢神洲際】就愛用 iPASS MONEY！消費滿額最高送 700 元！"
+    },
+    "GMZTIMAAQYR2V64IUiT4": {
+      "full": false,
+      "title": "[優惠一、二已於 2026/6/23 11:17 額滿 ]【momo】iPASS MONEY 付款，消費樂享最高 40% 回饋！"
+    },
+    "GMZTGMY4WMW2R64WwZ0A": {
+      "full": false,
+      "title": "【樂天銀行】iPASS MONEY 連接樂天銀行新戶，享一卡通綠點 800 點回饋"
+    },
+    "GMZTGNANGTXNW648qmVW": {
+      "full": false,
+      "title": "【3C家電】想省錢看過來！買 3C家電單筆滿萬最高送 1,100 點，符合條件再賺最高 25% 回饋！"
+    },
+    "GMZTEOICNVVK764lnNBy": {
+      "full": false,
+      "title": "【好評延長】一卡通聯名卡自動加值，享 5% 回饋！"
+    },
+    "GMZTINIEPFBCW64iwd2O": {
+      "full": false,
+      "title": "微風台北車站【歡慶 TWQR 上線 滿額贈限定好禮】活動辦法"
+    },
+    "GMZTINYWBREUA64ayotP": {
+      "full": false,
+      "title": "微風集團【 TWQR 限定 5% 超回饋】活動辦法"
+    },
+    "GMZTIOA4QEMXY64JWcEQ": {
+      "full": false,
+      "title": "【CYBERBIZ】你消費、我買單，用 iPASS MONEY 付款，最高拿 10 萬！"
+    },
+    "GMZTKMA73BA5K64OG5dX": {
+      "full": false,
+      "title": "【WACA】618 狂購回饋，指定品牌用 iPASS MONEY 付款，單筆消費滿額送 300 元"
+    },
+    "GMZTIMQJP5FLM64xMOcA": {
+      "full": false,
+      "title": "【Gomaji】麻吉計畫，使用 iPASS MONEY 付款滿額，最高享 800 回饋"
+    },
+    "GMZTKMQM2CV7T646j9h1": {
+      "full": false,
+      "title": "【信用卡費】用 iPASS MONEY 繳聯邦信用卡費，月月最高享 200 點回饋！"
+    },
+    "GMZTKMYQ2HOT264bF5RH": {
+      "full": false,
+      "title": "【yoxi】綁定 iPASS MONEY 暢遊城市，三大優惠與你同行！"
+    },
+    "GMZTKNIBKES4I64LziUj": {
+      "full": false,
+      "title": "【南紡購物中心】iPASS MONEY 專暑於你！消費滿額最高送 528 元！"
+    },
+    "GMZTKNAZ52O4564JJts4": {
+      "full": false,
+      "title": "【2026 彰化夏日商圈生活節】iPASS MONEY 消費滿額贈最高 200 元優惠券！"
+    },
+    "GMZTMNIYJCNZB64NsdsD": {
+      "full": false,
+      "title": "【高雄巨蛋智慧杆】掃碼領取高雄瑞豐夜市 50 元優惠券，消費滿百即可兌換！"
+    },
+    "GMZTMNQWERQDL64mh9Ji": {
+      "full": false,
+      "title": "【2026 交通優惠】一卡通搭交通，優惠一路通！"
+    },
+    "GMZTMMQ4HWFB664P4Hun": {
+      "full": false,
+      "title": "[優惠二回饋上限已於2026/8/21 15:50 額滿 ]【PayPay】遊日本用 iPASS MONEY 最高享 15% 回饋！"
+    },
+    "GMZTMOIRKWWYZ64APifC": {
+      "full": false,
+      "title": "首次連結玉山數位帳戶，並開啟自動儲值功能享 50 元回饋"
+    },
+    "GMZTKOIDXT5XV64TUy40": {
+      "full": false,
+      "title": "【美廉社】iPASS MONEY／一卡通 天天不限金額享美廉社會員點數 6 倍送，月月再領 50 元優惠券！"
+    },
+    "GMZTMNYA6PIFD64PQ4Vg": {
+      "full": false,
+      "title": "【Google 錢包™一卡通】搭乘全台大眾運輸，享一卡通綠點 10 倍送！"
+    },
+    "GMZTKMI4RM33D64vipL2": {
+      "full": false,
+      "title": "【聯邦銀行】持綠卡一卡通聯名卡搭乘大眾運輸，每趟回饋一卡通綠點 5 點，新戶申辦加碼回饋一卡通綠點 50 點 !"
+    },
+    "GMZTMMIYIYLJ764InoUT": {
+      "full": false,
+      "title": "【摩斯漢堡】用 iPASS MONEY 累積消費滿 150 元送 50 元優惠券！"
+    },
+    "GMZTOMICVJGO364Mko5n": {
+      "full": false,
+      "title": "【公路養管費】使用 iPASS MONEY APP 指定路徑繳費，最高送 480 元優惠券"
+    },
+    "GMZTOMQNKWP3Z64UgN4F": {
+      "full": false,
+      "title": "【台亞指定加油站】輸入指定優惠券代碼，月月領取120元優惠券！"
+    },
+    "GMZTOMAYGPRRL64IA9Fn": {
+      "full": false,
+      "title": "[優惠二回饋上限已於2026/9/18 16:55額滿；優惠一回饋上限已於2026/9/11 17:50額滿 ]【生活繳費】使用 iPASS MONEY App 生活繳費，最高送 390 元優惠券"
+    },
+    "GMZTONAY62VXF64zu015": {
+      "full": false,
+      "title": "【手機門號轉轉樂】綁定手機門號轉帳，筆筆轉帳送一卡通綠點！"
+    },
+    "GMZTOOIOPNOHR64UqPfm": {
+      "full": false,
+      "title": "【7-ELEVEN】7-11 DAY 開心花，用 iPASS MONEY APP 付款，樂享多重回饋！"
+    },
+    "GMZTMOALPRNKF64GhtTv": {
+      "full": false,
+      "title": "【南紡購物中心】用 iPASS MONEY 累積消費滿 599 元送 50 元優惠券！"
+    },
+    "GMZTMNA5JLRMG64YlprD": {
+      "full": false,
+      "title": "【里仁】用 iPASS MONEY 帳戶餘額付款最高享 20% 回饋！"
+    },
+    "GMZTQMANMB5DO64yGXlD": {
+      "full": false,
+      "title": "一卡通聯名卡自動加值，享 10% 回饋！ 不限通路消費再享 5% 回饋！"
+    },
+    "GMZTQMYLKDINQ645DEa9": {
+      "full": false,
+      "title": "【誠品生活】用 iPASS MONEY APP / 一卡通記名卡付款樂享 10% 回饋！"
+    },
+    "GMZTQNQN7O33S64Ef0dt": {
+      "full": false,
+      "title": "【Flexii】首次選擇 iPASS MONEY 提領薪資，最高享一卡通綠點 200 點回饋！"
+    },
+    "GMZTQNITHBGIV64hjluw": {
+      "full": false,
+      "title": "【捐款專區】透過 iPASS MONEY APP 捐款享 10% 回饋！"
+    },
+    "GMZTQOAKB6IZQ64S2dWx": {
+      "full": false,
+      "title": "【王道銀行】王道愛減碳 完成任務最高享一卡通綠點 1,700 點與新台幣 500 元現金回饋！"
+    },
+    "GMZTQOIXZZIFN645cRtj": {
+      "full": false,
+      "title": "【MeN Go/ TPASS 嘉南高屏定期票】用 iPASS MONEY APP 購票樂享雙重回饋！"
+    },
+    "GMZDQNQ7OUMSX64IfY7L": {
+      "full": false,
+      "title": "【東森寵物】寵愛大放送，使用 iPASS MONEY 付款單筆滿千贈 100 元優惠券"
+    },
+    "GMZTSOAMUKTSP64TBhdr": {
+      "full": false,
+      "title": "搭乘公共運輸，省錢又減碳 TPASS 2.0 常客回饋再升級！"
+    },
+    "GMZTSMAO4BC5I64DHCoe": {
+      "full": false,
+      "title": "【南紡購物中心】優惠券 100 元無限量開放領取中！"
+    },
+    "GMZTSOIRRHDD364cc3Rm": {
+      "full": false,
+      "title": "【環球Online】中元壓壓驚，iPASS MONEY 送保佑禮！"
+    },
+    "GM2DAMQVOGGMI64EFjxC": {
+      "full": false,
+      "title": "【WeMo】綁定 iPASS MONEY 扣款送 50 元騎乘券！再享 10% 回饋！"
+    },
+    "GM2DAMADJE3436443FDm": {
+      "full": false,
+      "title": "【好禮券】好禮入手、點數到手，使用 iPASS MONEY 付款，享一卡通綠點 10% 回饋"
+    },
+    "GM2DAMIZL5ZJH64kM3K2": {
+      "full": false,
+      "title": "【高雄巨蛋智慧杆】掃碼領取瑞豐夜市、巨蛋市集 30 元優惠券！"
+    },
+    "GM2DANAS7P32G64xM8nI": {
+      "full": false,
+      "title": "【7-ELEVEN】超吉好運拜中元，用 iPASS MONEY APP 付款，樂享多重回饋！"
+    },
+    "GMZTSMYE26FQ664OlUBX": {
+      "full": false,
+      "title": "【高雄流行音樂中心演唱會優惠券】憑演唱會門票可獲取 iPASS MONEY 優惠券！"
+    },
+    "GM2DAOALJHZ7V64k0dNf": {
+      "full": false,
+      "title": "【樂天銀行】iPASS MONEY 連接樂天銀行新戶，享一卡通綠點 800 點回饋"
+    },
+    "GM2DAOIAESGEQ64KVdGv": {
+      "full": false,
+      "title": "【遊食購嗶出好運消費月】iPASS MONEY APP 掃 TWQR 立牌付款，超多好禮等你抽"
+    },
+    "GM2DANYXHAH5464GySaa": {
+      "full": false,
+      "title": "【乘車碼】搭車就用 iPASS MONEY 乘車碼，週週送四大超商優惠券"
+    },
+    "GM2DAMYRFXVTI645aF6T": {
+      "full": false,
+      "title": "【PayPay】Breezeグループ 周年祭 TWQRキャンペーン"
+    },
+    "GM2DANITGE4EN64rASft": {
+      "full": false,
+      "title": "【SKM Park Outlets 高雄草衙】使用 iPASS MONEY 當日累積消費滿 599 抽造型一卡通！"
+    },
+    "GM2DCMAF4ZVQG64vTD9T": {
+      "full": false,
+      "title": "微風集團【歡慶微風週年慶 TWQR 加碼禮】活動辦法"
+    },
+    "GM2DCNATUFDDM64G9CFS": {
+      "full": false,
+      "title": "【玉山銀行】綁定玉山Unicard消費任 1 筆，享一卡通綠點 500 點回饋"
+    },
+    "GM2DCNIY373GB64XdhwG": {
+      "full": false,
+      "title": "【高雄巨蛋智慧杆】登錄活動-捷運巨蛋站進出站筆筆交易享 5 點回饋並加碼領最高 100 回饋"
+    },
+    "GM2DCMI7U7AVM64S5EQR": {
+      "full": false,
+      "title": "【誠品生活】iPASS MONEY 最優惠，門市掃碼月月領 100 元優惠券！"
+    },
+    "GM2DCNYDQKTX564d2xFQ": {
+      "full": false,
+      "title": "【旅電科技】使用 iPASS MONEY 付款樂享 10% 回饋，累積消費滿百再送 2 小時借電券！"
+    },
+    "GM2DCNQ4OXNWA643g4G8": {
+      "full": false,
+      "title": "【歡慶國際無車日】綠色通勤雙任務，最高抽一卡通綠點 888 點！"
+    },
+    "GM2DCOIMUR2AI64dqok9": {
+      "full": false,
+      "title": "【7-ELEVEN】中秋採買就用 iPASS MONEY APP 付款，樂享多重回饋！"
+    },
+    "GM2DENAOW36WY64iQ2Dn": {
+      "full": false,
+      "title": "【TWQR 掃碼繳費】新開通數位券錢包，並使用 TWQR 繳費任一筆贈 50 元數位券"
+    },
+    "GM2DEMQ4ZMJRH6417p3C": {
+      "full": false,
+      "title": "【手機門號轉轉樂】綁定手機門號轉帳，筆筆轉帳樂抽一卡通綠點 168 點！"
+    },
+    "GM2DEMIXGEHTS64yy8Ve": {
+      "full": false,
+      "title": "【漢神百貨/漢神巨蛋購物廣場】週年慶暖身同狂歡！月月領 100 元優惠券！"
+    },
+    "GM2DCOA2CEE3T645TiON": {
+      "full": false,
+      "title": "【三友藥妝】持一卡通消費單筆滿 300 元現折 30 元"
+    },
+    "GM2DENI3Z5RID648nu5k": {
+      "full": false,
+      "title": "【7-ELEVEN】用 iPASS MONEY APP 付款，樂享多重回饋！"
+    },
+    "GM2DCMQ7ZDKM464odCW1": {
+      "full": false,
+      "title": "【SKM Park Outlets高雄草衙】不領券就搗蛋！週週拆開萬聖驚喜包！"
+    },
+    "GM2DENQ4PH4Z264I2izd": {
+      "full": false,
+      "title": "【環保集點】點點成金！好康再升級！兌換一卡通綠點就送 50 元優惠券"
+    },
+    "GM2DGNA4TSTVF64S41Jz": {
+      "full": false,
+      "title": "【臺南消費抽大獎】於指定通路單筆消費滿 100 元，抽 iPhone 18 Pro Max！"
+    },
+    "GM2DGNQMTS7KZ64g6ApJ": {
+      "full": false,
+      "title": "【 TWQR 掃碼繳稅】用 iPASS MONEY APP 繳地價稅即贈 50 元數位券"
+    },
+    "GM2DGOIETW6YV64rmNDW": {
+      "full": false,
+      "title": "【vivo】全新機款啟用 Google 錢包™一卡通送 250 元儲值金"
+    },
+    "GM2DGMIM77TDA641VFCA": {
+      "full": false,
+      "title": "【SKM Park Outlets高雄草衙】使用 iPASS MONEY 當日累積消費滿 599 元抽造型一卡通！"
+    }
+  },
+  "easycard_results": {
+    "1782278283": {
+      "full": false,
+      "title": "「減塑 Easy Life｜集集樂挑戰賽」"
+    },
+    "1782459664": {
+      "full": false,
+      "title": "元大銀行悠遊聯名卡暨悠遊付活動專區"
+    },
+    "1784184075": {
+      "full": false,
+      "title": "悠遊付繳地價稅筆筆3% 滿額最高回饋7%"
+    },
+    "1784206763": {
+      "full": false,
+      "title": "悠遊付暢遊金門 筆筆最高回饋23%"
+    },
+    "1784703624": {
+      "full": false,
+      "title": "2026悠遊付掃碼領100元金門暢遊券"
+    },
+    "1786529493": {
+      "full": false,
+      "title": "韓國旅遊｜悠遊付現金回饋最高12%"
+    },
+    "1788682579": {
+      "full": false,
+      "title": "7-ELEVEN 嗶悠遊卡結帳滿$500現折$50"
+    },
+    "1788932829": {
+      "full": false,
+      "title": "2026悠遊捷客年末感謝祭 筆筆最高享15%回饋!!"
+    },
+    "1789551533": {
+      "full": false,
+      "title": "悠遊卡生活購物嗶計畫 美廉社天天消費滿額享最高回饋10%"
+    },
+    "1789695896": {
+      "full": false,
+      "title": "玉山銀行全聯行銷活動「天天銀行卡友日」消費滿額贈點活動"
+    },
+    "1790038856": {
+      "full": false,
+      "title": "【大樹藥局】悠遊付錢包/帳戶滿額享5%回饋"
+    },
+    "1790062414": {
+      "full": false,
+      "title": "悠遊卡生活購物嗶計畫 消費滿額享最高回饋8%"
+    },
+    "1790172504": {
+      "full": false,
+      "title": "悠遊付新會員註冊立即領$50禮包"
+    },
+    "1791172316": {
+      "full": false,
+      "title": "(已額滿)南門週年感謝祭 悠遊付滿額最高享30%回饋"
+    },
+    "1791359075": {
+      "full": false,
+      "title": "【萊爾富】悠遊滿額贈商品兌換券"
+    },
+    "1791368591": {
+      "full": false,
+      "title": "東門市場開幕慶 悠遊付筆筆最高13%回饋"
+    },
+    "1791948226": {
+      "full": false,
+      "title": "7-ELEVEN 寶可夢MEZASTAR消費刷悠遊卡/悠遊付滿1次 免費遊戲券送給你"
+    },
+    "challenge_silver": {
+      "full": false,
+      "title": "月級挑戰 銀級"
+    },
+    "challenge_gold": {
+      "full": false,
+      "title": "月級挑戰 金級"
+    },
+    "challenge_platinum": {
+      "full": false,
+      "title": "月級挑戰 白金級"
+    },
+    "ew_1789720786": {
+      "full": false,
+      "title": "悠遊付逢1生活繳費享筆筆加碼2%回饋"
+    },
+    "ew_1789723546": {
+      "full": false,
+      "title": "全家便利商店 悠遊付錢包帳戶滿額最高回饋16% 首次消費加贈20%回饋券"
+    },
+    "ew_1791346423": {
+      "full": false,
+      "title": "悠遊付綁定元大信用卡消費單筆滿168元享5%刷卡金"
+    },
+    "ew_1790064312": {
+      "full": false,
+      "title": "喜美超市悠遊付 消費滿額享最高回饋8%，新會員輸入專屬推薦碼註冊悠遊付 最高領100元"
+    },
+    "ew_1784794791": {
+      "full": false,
+      "title": "歡慶上線！台中銀行 x 悠遊付 首綁消費扣款享回饋"
+    },
+    "ew_1782456438": {
+      "full": false,
+      "title": "悠遊卡生活購物嗶計畫 週五六日萬家福/樂家康/Mia Cbon消費滿額享最高回饋8%"
+    },
+    "ew_1789539348": {
+      "full": false,
+      "title": "【第一銀行 X 悠遊付】跟著小粉獅「悠遊」享回饋"
+    },
+    "ew_1747884970": {
+      "full": false,
+      "title": "週五會員日 最高回饋5%"
+    },
+    "ew_1789526598": {
+      "full": false,
+      "title": "【指定餐廳】 悠遊付週週領券最高回饋13%"
+    },
+    "ew_1790677750": {
+      "full": false,
+      "title": "用悠遊付搭乘雙北捷運公車 滿30趟最高送$100"
+    },
+    "ew_1790925074": {
+      "full": false,
+      "title": "兆豐信用卡綁定悠遊付 滿額最高10%回饋！"
+    },
+    "ew_1782179051": {
+      "full": false,
+      "title": "全國加油站嗶悠遊卡/悠遊聯名卡支付，汽油每公升降0.5元"
+    },
+    "ew_1792045293": {
+      "full": false,
+      "title": "【摩斯漢堡】悠遊卡/悠遊付 累滿$500送$100現金券"
+    },
+    "ew_1789960541": {
+      "full": false,
+      "title": "頂呱呱_悠遊美味餐180元"
+    },
+    "ew_1792474967": {
+      "full": false,
+      "title": "高雄捷運掃悠遊付乘車碼 筆筆回饋30%"
+    },
+    "ew_1790222742": {
+      "full": false,
+      "title": "台亞加油站人工加油-悠遊付錢包/銀行帳戶最高回饋7%"
+    },
+    "ew_1792653371": {
+      "full": false,
+      "title": "台灣中油悠遊卡/悠遊付加油享回饋"
+    },
+    "ew_1781755415": {
+      "full": false,
+      "title": "第一銀行悠遊聯名卡 悠遊付享3%刷卡金活動"
+    },
+    "ew_1785146027": {
+      "full": false,
+      "title": "【誠品生活週年慶】週四~週日 悠遊付滿額最高回饋17%"
+    },
+    "ew_1766573956": {
+      "full": false,
+      "title": "推薦好友送$100"
+    },
+    "ew_1780893747": {
+      "full": false,
+      "title": "【夢時代週四會員日】 悠遊付滿額回饋30"
+    },
+    "ew_1780644836": {
+      "full": false,
+      "title": "悠遊康是美，週一滿額最高送60元"
+    },
+    "ew_1764668818": {
+      "full": false,
+      "title": "【誠品生活5號會員日】悠遊付滿額最高享8%"
+    },
+    "ew_1780892834": {
+      "full": false,
+      "title": "【微風週三會員日】悠遊付單筆300送300"
+    },
+    "ew_1789543374": {
+      "full": false,
+      "title": "三商鮮五丼-點主餐享蒜味時蔬30元加價購"
+    },
+    "ew_1789547095": {
+      "full": false,
+      "title": "福勝亭-卡滋豬排丼定食套餐特價295元"
+    },
+    "ew_1789548962": {
+      "full": false,
+      "title": "三商巧福-點購指定套餐享加價購"
+    },
+    "ew_1789541938": {
+      "full": false,
+      "title": "三商炸雞-炸雞獨享餐特價119元"
+    },
+    "ew_1739775992": {
+      "full": false,
+      "title": "什麼？手機可以感應悠遊卡，隨時幫卡片加值？ 2025-02-17 －"
+    },
+    "ew_1791888619": {
+      "full": false,
+      "title": "指定電商｜雙11搶券月曆｜$500先用先賺"
+    },
+    "ew_1792032189": {
+      "full": false,
+      "title": "momo購物網雙11狂歡購｜滿千最高8%｜滿額再加碼最高$1,700回饋"
+    },
+    "ew_1791965939": {
+      "full": false,
+      "title": "friDay購物｜狂購節來襲最高回饋$2,800"
+    },
+    "ew_1789388498": {
+      "full": false,
+      "title": "PChome秋冬購物季｜滿千最高8%｜滿額再拿$400"
+    },
+    "ew_1789389304": {
+      "full": false,
+      "title": "博客來｜閱讀豐收季 滿千最高8%現金回饋"
+    },
+    "ew_1789386225": {
+      "full": false,
+      "title": "限定電商遊戲娛樂｜滿千最高8%回饋"
+    },
+    "ew_1789386969": {
+      "full": false,
+      "title": "指定遊戲電商｜滿千最高8%回饋｜最高再加碼拿$200"
+    },
+    "ew_1789361414": {
+      "full": false,
+      "title": "寶雅線上買｜最高35%回饋 接力再升級！"
+    },
+    "ew_1789359530": {
+      "full": false,
+      "title": "91APP合作品牌官網購物｜最高25%接力送！"
+    },
+    "ew_1789555490": {
+      "full": false,
+      "title": "MyCard X 悠遊付 四重好康一次拿"
+    },
+    "ew_1789360855": {
+      "full": false,
+      "title": "康是美網購eShop｜最高45%回饋 接力再升級！"
+    },
+    "ew_1769596449": {
+      "full": false,
+      "title": "嗶臺北市敬老卡可享扣抵點數泡溫泉!"
+    },
+    "ew_1743060351": {
+      "full": false,
+      "title": "孕媽咪專屬悠遊付新會員贈$100優惠！"
+    },
+    "ew_1774403633": {
+      "full": false,
+      "title": "選用悠遊付領臺北市補助款 首筆加發補助金10%！最高回饋300元！"
+    },
+    "ew_1737338924": {
+      "full": false,
+      "title": "嗶桃園市好運卡，享專屬藥妝通路加碼優惠"
+    },
+    "ew_1766377676": {
+      "full": false,
+      "title": "新會員3%回饋"
+    },
+    "ew_1789539614": {
+      "full": false,
+      "title": "拿坡里-Mini雙享餐 特價299元"
+    },
+    "ew_1789548305": {
+      "full": false,
+      "title": "品川蘭-指定套餐特價289元"
+    }
+  },
+  "pxmart_card": {
+    "periodId": 31,
+    "period": "2026-10-09~2026-10-11",
+    "sdate": "2026-10-09",
+    "edate": "2026-10-11",
+    "active": false,
+    "items": [
+      {
+        "bank": "玉山銀行",
+        "pay": [
+          1,
+          2
+        ],
+        "payNames": "PX Pay/全支付",
+        "total": 5000,
+        "left": null,
+        "full": true,
+        "soldAt": "2026-10-09 21:20:12",
+        "text": "10/9-10/11單筆消費滿1,300元，贈650福利點",
+        "extra": null
+      },
+      {
+        "bank": "國泰世華銀行",
+        "pay": [
+          1,
+          2
+        ],
+        "payNames": "PX Pay/全支付",
+        "total": 1200,
+        "left": null,
+        "full": true,
+        "soldAt": "2026-10-09 10:15:05",
+        "text": "10/9-10/11單筆消費滿1,300元，贈650福利點",
+        "extra": null
+      },
+      {
+        "bank": "聯邦銀行",
+        "pay": [
+          1,
+          2
+        ],
+        "payNames": "PX Pay/全支付",
+        "total": 5000,
+        "left": 807,
+        "full": false,
+        "soldAt": null,
+        "text": "10/9-10/11單筆消費滿1,300元，贈780福利點",
+        "extra": null
+      },
+      {
+        "bank": "永豐銀行",
+        "pay": [
+          1,
+          2
+        ],
+        "payNames": "PX Pay/全支付",
+        "total": 6000,
+        "left": 3215,
+        "full": false,
+        "soldAt": null,
+        "text": "10/9-10/11單筆消費滿1,300元，贈650福利點",
+        "extra": null
+      },
+      {
+        "bank": "台新銀行",
+        "pay": [
+          1
+        ],
+        "payNames": "PX Pay",
+        "total": 2000,
+        "left": 1506,
+        "full": false,
+        "soldAt": null,
+        "text": "10/9-10/11單筆消費滿1,300元，贈650福利點",
+        "extra": null
+      },
+      {
+        "bank": "彰化銀行",
+        "pay": [
+          1,
+          2
+        ],
+        "payNames": "PX Pay/全支付",
+        "total": 2000,
+        "left": 1444,
+        "full": false,
+        "soldAt": null,
+        "text": "10/9-10/11單筆消費滿1,300元，贈650福利點",
+        "extra": null
+      },
+      {
+        "bank": "中國信託銀行",
+        "pay": [
+          1
+        ],
+        "payNames": "PX Pay",
+        "total": 1000,
+        "left": null,
+        "full": true,
+        "soldAt": "2026-10-10 13:20:14",
+        "text": "10/9-10/11單筆消費滿1,300元，贈650福利點",
+        "extra": null
+      },
+      {
+        "bank": "第一銀行",
+        "pay": [
+          1,
+          2
+        ],
+        "payNames": "PX Pay/全支付",
+        "total": 1000,
+        "left": null,
+        "full": true,
+        "soldAt": "2026-10-09 21:30:12",
+        "text": "10/9-10/11單筆消費滿1,300元，贈650福利點",
+        "extra": null
+      },
+      {
+        "bank": "台北富邦銀行",
+        "pay": [
+          1,
+          2
+        ],
+        "payNames": "PX Pay/全支付",
+        "total": 1000,
+        "left": null,
+        "full": true,
+        "soldAt": "2026-10-09 16:45:03",
+        "text": "10/9-10/11單筆消費滿1,300元，贈650福利點",
+        "extra": null
+      },
+      {
+        "bank": "星展銀行",
+        "pay": [
+          1,
+          2
+        ],
+        "payNames": "PX Pay/全支付",
+        "total": 330,
+        "left": null,
+        "full": true,
+        "soldAt": "2026-10-09 15:50:01",
+        "text": "10/9-10/11單筆消費滿1,300元，贈650福利點",
+        "extra": null
+      },
+      {
+        "bank": "凱基銀行",
+        "pay": [
+          1,
+          2
+        ],
+        "payNames": "PX Pay/全支付",
+        "total": 300,
+        "left": null,
+        "full": true,
+        "soldAt": "2026-10-10 09:40:06",
+        "text": "10/9-10/11單筆消費滿1,300元，贈650福利點",
+        "extra": null
+      },
+      {
+        "bank": "聯邦銀行",
+        "pay": [
+          3
+        ],
+        "payNames": "實體卡",
+        "total": 2000,
+        "left": 1292,
+        "full": false,
+        "soldAt": null,
+        "text": "10/9-10/11單筆消費滿1,300元，贈780福利點",
+        "extra": null
+      },
+      {
+        "bank": "玉山銀行",
+        "pay": [
+          3
+        ],
+        "payNames": "實體卡",
+        "total": 2000,
+        "left": null,
+        "full": true,
+        "soldAt": "2026-10-10 17:55:08",
+        "text": "10/9-10/11單筆消費滿1,300元，贈650福利點",
+        "extra": null
+      },
+      {
+        "bank": "國泰世華銀行",
+        "pay": [
+          3
+        ],
+        "payNames": "實體卡",
+        "total": 1500,
+        "left": null,
+        "full": true,
+        "soldAt": "2026-10-09 16:45:03",
+        "text": "10/9-10/11單筆消費滿1,300元，贈650福利點",
+        "extra": null
+      },
+      {
+        "bank": "中國信託銀行",
+        "pay": [
+          3
+        ],
+        "payNames": "實體卡",
+        "total": 2000,
+        "left": null,
+        "full": true,
+        "soldAt": "2026-10-09 17:35:04",
+        "text": "10/9-10/11單筆消費滿1,300元，贈650福利點",
+        "extra": null
+      },
+      {
+        "bank": "台北富邦銀行",
+        "pay": [
+          3
+        ],
+        "payNames": "實體卡",
+        "total": 1000,
+        "left": null,
+        "full": true,
+        "soldAt": "2026-10-10 08:10:03",
+        "text": "10/9-10/11單筆消費滿1,300元，贈650福利點",
+        "extra": null
+      },
+      {
+        "bank": "第一銀行",
+        "pay": [
+          3
+        ],
+        "payNames": "實體卡",
+        "total": 500,
+        "left": null,
+        "full": true,
+        "soldAt": "2026-10-10 16:15:04",
+        "text": "10/9-10/11單筆消費滿1,300元，贈650福利點",
+        "extra": null
+      }
+    ]
+  },
+  "promos": [],
+  "manualCheckPromos": [
+    {
+      "id": "easycard_challenge_silver",
+      "title": "月級挑戰 銀級",
+      "category": "需 APP 確認",
+      "deepLink": "easywallet://",
+      "fallbackUrl": "https://apps.apple.com/tw/app/easy-wallet/id786065396",
+      "pay": "easywallet",
+      "scope": "wallet",
+      "cids": []
+    },
+    {
+      "id": "easycard_challenge_gold",
+      "title": "月級挑戰 金級",
+      "category": "需 APP 確認",
+      "deepLink": "easywallet://",
+      "fallbackUrl": "https://apps.apple.com/tw/app/easy-wallet/id786065396",
+      "pay": "easywallet",
+      "scope": "wallet",
+      "cids": []
+    },
+    {
+      "id": "easycard_challenge_platinum",
+      "title": "月級挑戰 白金級",
+      "category": "需 APP 確認",
+      "deepLink": "easywallet://",
+      "fallbackUrl": "https://apps.apple.com/tw/app/easy-wallet/id786065396",
+      "pay": "easywallet",
+      "scope": "wallet",
+      "cids": []
+    },
+    {
+      "id": "pxpay_esun_3",
+      "title": "全支付 綁玉山卡 3%（每週限量 8 萬點）",
+      "category": "需 APP 確認",
+      "deepLink": "https://www.pxpayplus.com/",
+      "fallbackUrl": "https://event.esunbank.com.tw/credit/1110914pxpay/index.html",
+      "pay": "pxpay",
+      "scope": "bank",
+      "cids": [
+        "c7",
+        "j3",
+        "ubear1",
+        "miao1"
+      ],
+      "bank": "玉山"
+    },
+    {
+      "id": "pxpay_cathay_5",
+      "title": "全支付 綁國泰卡 指定場域 5%（每週限量 10 萬點）",
+      "category": "需 APP 確認",
+      "deepLink": "https://www.pxpayplus.com/",
+      "fallbackUrl": "https://www.cathay-cube.com.tw/cathaybk/personal/event/overview/credit-card/shopping/202604/CUBE_PXPayPlus_2026",
+      "pay": "pxpay",
+      "scope": "bank",
+      "cids": [
+        "cube1",
+        "cathay_am"
+      ],
+      "bank": "國泰"
+    },
+    {
+      "id": "pxpay_obank_5",
+      "title": "全支付 綁王道簽帳卡 5%（每週限量 5,000 點）",
+      "category": "需 APP 確認",
+      "deepLink": "https://www.pxpayplus.com/",
+      "fallbackUrl": "https://www.o-bank.com/retail/event/event-announce/debit_20270103_1",
+      "pay": "pxpay",
+      "scope": "card",
+      "cids": [
+        "orange1"
+      ],
+      "bank": "王道"
+    }
+  ],
+  "bank_pages": {
+    "taishin_lp": {
+      "url": "https://mkpcard.taishinbank.com.tw/tscccms/promotion/detail/WM_20260929170820825",
+      "sections": [
+        {
+          "no": "一",
+          "name": "指定加油站，享最高LINE",
+          "full": false
+        },
+        {
+          "no": "二",
+          "name": "指定計程車，最高LINE",
+          "full": false
+        },
+        {
+          "no": "四",
+          "name": "韓國指定-吃喝補給，最高LINE",
+          "full": false
+        },
+        {
+          "no": "五",
+          "name": "韓國指定-旅遊購物，最高LINE",
+          "full": false
+        },
+        {
+          "no": "六",
+          "name": "台新Richart卡，LINE",
+          "full": false
+        }
+      ]
+    }
+  },
+  "reminders": [
+    {
+      "id": "cube_japan",
+      "title": "CUBE 日本賞",
+      "endDate": "2026-04-30"
+    },
+    {
+      "id": "esun_pxpay",
+      "title": "玉山全支付綁卡3%",
+      "endDate": "2026-06-28"
+    },
+    {
+      "id": "easycard_challenge",
+      "title": "悠遊付月級挑戰",
+      "endDate": "2026-04-01"
+    },
+    {
+      "id": "easycard_bus10",
+      "title": "悠遊付乘車碼10%",
+      "endDate": "2026-03-31"
+    },
+    {
+      "id": "pxpay_japan",
+      "title": "全支付日本PayPay回饋",
+      "endDate": "2026-03-29"
+    },
+    {
+      "id": "icashpay_3c",
+      "title": "icash Pay 網購3C 10%",
+      "endDate": "2026-06-30"
+    },
+    {
+      "id": "ubot_ipassmoney",
+      "title": "聯邦iPASS MONEY 10%綠點",
+      "endDate": "2026-12-31"
+    }
+  ],
+  "updated": "2026-11-02"
+}

@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F172A" />
+      <stop offset="55%" stop-color="#1E293B" />
+      <stop offset="100%" stop-color="#090D16" />
+    </linearGradient>
+    <linearGradient id="cardBack" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#6366F1" />
+      <stop offset="100%" stop-color="#A855F7" />
+    </linearGradient>
+    <linearGradient id="cardFront" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0EA5E9" />
+      <stop offset="50%" stop-color="#2563EB" />
+      <stop offset="100%" stop-color="#1D4ED8" />
+    </linearGradient>
+    <linearGradient id="goldChip" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FDE68A" />
+      <stop offset="50%" stop-color="#F59E0B" />
+      <stop offset="100%" stop-color="#D97706" />
+    </linearGradient>
+    <linearGradient id="badgeGreen" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#34D399" />
+      <stop offset="100%" stop-color="#059669" />
+    </linearGradient>
+    <filter id="dropShadow" x="-15%" y="-15%" width="130%" height="130%">
+      <feDropShadow dx="0" dy="12" stdDeviation="16" flood-color="#000000" flood-opacity="0.45" />
+    </filter>
+  </defs>
+
+  <!-- App Icon 圓角背景 -->
+  <rect width="512" height="512" rx="112" fill="url(#bgGrad)" />
+  <rect x="8" y="8" width="496" height="496" rx="104" fill="none" stroke="#38BDF8" stroke-opacity="0.18" stroke-width="4" />
+
+  <!-- 後層副卡（微傾斜） -->
+  <g transform="translate(256, 230) rotate(-11) translate(-165, -105)" filter="url(#dropShadow)">
+    <rect x="0" y="0" width="330" height="210" rx="26" fill="url(#cardBack)" opacity="0.88" />
+    <rect x="0" y="38" width="330" height="42" fill="#0F172A" opacity="0.55" />
+  </g>
+
+  <!-- 前層主卡 -->
+  <g transform="translate(86, 152)" filter="url(#dropShadow)">
+    <rect x="0" y="0" width="340" height="216" rx="28" fill="url(#cardFront)" stroke="#93C5FD" stroke-opacity="0.4" stroke-width="2" />
+    <!-- 卡片反光飾條 -->
+    <path d="M 190 0 L 312 0 A 28 28 0 0 1 340 28 L 340 160 L 140 0 Z" fill="#FFFFFF" opacity="0.09" />
+    <!-- 金色 EMV 晶片 -->
+    <rect x="34" y="66" width="58" height="44" rx="9" fill="url(#goldChip)" />
+    <path d="M 34 88 H 92 M 54 66 V 110 M 72 66 V 110" stroke="#92400E" stroke-width="2" opacity="0.45" fill="none" />
+    <!-- 感應波紋 -->
+    <path d="M 114 78 A 16 16 0 0 1 114 98 M 123 72 A 24 24 0 0 1 123 104" stroke="#E0F2FE" stroke-width="4" stroke-linecap="round" fill="none" opacity="0.85" />
+    <!-- 底部卡號裝飾點與額度進度條 -->
+    <rect x="34" y="142" width="170" height="12" rx="6" fill="#0F172A" opacity="0.35" />
+    <rect x="34" y="142" width="124" height="12" rx="6" fill="#34D399" />
+    <text x="34" y="185" fill="#E0F2FE" font-family="system-ui, sans-serif" font-weight="800" font-size="22" letter-spacing="2">BUTLER PRO</text>
+  </g>
+
+  <!-- 右下角「% 回饋封頂」精算徽章 -->
+  <g transform="translate(310, 290)" filter="url(#dropShadow)">
+    <circle cx="64" cy="64" r="60" fill="url(#badgeGreen)" stroke="#0F172A" stroke-width="8" />
+    <text x="64" y="81" text-anchor="middle" fill="#FFFFFF" font-family="system-ui, sans-serif" font-weight="900" font-size="52">%</text>
+  </g>
+</svg>
